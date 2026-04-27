@@ -149,7 +149,7 @@ function HeroSection() {
           >
              <div className="absolute inset-0 bg-amparo-teal rounded-[3rem] transform rotate-3 scale-105 opacity-10"></div>
              <img 
-               src="https://images.unsplash.com/photo-1583947581924-860bda6a5c83?auto=format&fit=crop&q=80&w=1200" 
+               src="https://ibb.co/B2qHqDhV" 
                alt="Cuidadora oferecendo companhia e segurando a mão da paciente, transmitindo carinho e apoio humano." 
                referrerPolicy="no-referrer"
                className="relative z-10 rounded-[3rem] shadow-2xl object-cover w-full h-[600px] border border-white/50"
