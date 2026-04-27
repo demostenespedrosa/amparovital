@@ -16,7 +16,7 @@ import {
 import { motion, AnimatePresence } from 'motion/react';
 
 // Constante para facilitar a alteração do número do WhatsApp
-const WHATSAPP_NUMBER = "5581900000000"; // Exemplo, deve ser substituído pelo real
+const WHATSAPP_NUMBER = "5581996346559"; // Exemplo, deve ser substituído pelo real
 const WHATSAPP_MESSAGE = encodeURIComponent("Olá! Gostaria de mais informações sobre os serviços de cuidadores em Recife e orçamento.");
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`;
 
@@ -59,7 +59,7 @@ function NavBar() {
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amparo-teal hover:bg-amparo-teal/90 text-white font-bold transition-all shadow-md hover:shadow-lg"
             >
               <Phone size={18} />
-              Falar com Especialista
+              Atendimento Imediato via WhatsApp
             </a>
           </div>
         </div>
@@ -119,7 +119,7 @@ function HeroSection() {
                 className="group flex items-center justify-center gap-3 px-8 py-5 text-lg font-bold bg-amparo-teal hover:bg-teal-600 text-white rounded-2xl transition-all shadow-lg shadow-teal-500/30 transform hover:-translate-y-1"
               >
                 <MessageCircle size={24} className="group-hover:scale-110 transition-transform" />
-                Solicitar Orçamento no WhatsApp
+                Atendimento Imediato via WhatsApp
               </a>
             </motion.div>
 
@@ -440,7 +440,7 @@ function FaqSection() {
                  className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-amparo-blue-dark text-white font-bold hover:bg-amparo-blue transition-colors shadow-md w-full sm:w-auto"
                >
                  <MessageCircle size={20} className="text-amparo-teal" />
-                 Fale com a Diretoria
+                 Atendimento Imediato via WhatsApp
                </a>
             </div>
           </div>
@@ -473,9 +473,9 @@ function Footer() {
           
           <div className="text-left md:text-right">
              <h4 className="text-xs font-bold text-slate-400 uppercase mb-3 tracking-widest">Contato & Localização</h4>
-             <p className="text-sm font-bold text-amparo-blue-dark mb-1">Amparo Vital Serviços de Saúde LTDA</p>
-             <p className="text-xs text-slate-500 uppercase mt-1">contato@amparovital.com.br</p>
-             <p className="text-xs text-slate-500 mt-1">Boa Viagem, Recife-PE</p>
+             <p className="text-sm font-bold text-amparo-blue-dark mb-1">Amparo Vital Serviços de Saúde</p>
+             <p className="text-xs text-slate-500 mt-1">contato@amparovital.com.br</p>
+             <p className="text-xs text-slate-500 mt-1">Recife-PE</p>
           </div>
         </div>
         
