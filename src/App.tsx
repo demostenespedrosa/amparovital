@@ -244,25 +244,25 @@ function ServicesSection() {
       title: "Cuidado com Idosos",
       desc: "Companhia afetuosa, encorajamento na mobilidade e auxílio completo nas necessidades da vida diária, resguardando sempre a autonomia no próprio lar.",
       icon: <Heart size={20} className="text-white" />,
-      image: "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?auto=format&fit=crop&q=80&w=800"
+      image: "https://ibb.co/ynpZpcp5"
     },
     {
       title: "Acompanhamento Hospitalar",
       desc: "Presença contínua e dedicada durante as internações, servindo como elo fiel da família com o paciente para reduzir a angústia durante a estadia.",
       icon: <Activity size={20} className="text-white" />,
-      image: "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&q=80&w=800"
+      image: "https://ibb.co/k2rYWpSM"
     },
     {
       title: "Assistência Pós-Cirúrgica",
       desc: "Um porto seguro na hora de voltar para casa. Acompanhamos a recuperação garantindo conforto e prevenindo esforço excessivo no restabelecimento.",
       icon: <Stethoscope size={20} className="text-white" />,
-      image: "https://images.unsplash.com/photo-1434494878577-8282bd2afc8d?auto=format&fit=crop&q=80&w=800"
+      image: "https://ibb.co/nsX154yx"
     },
     {
       title: "Gestão de Rotinas",
       desc: "Total responsabilidade na organização do dia do paciente, incluindo controle assertivo das doses de medicamentos recomendados nas horas exatas.",
       icon: <Info size={20} className="text-white" />,
-      image: "https://images.unsplash.com/photo-1506126613632-4a0b411dcae8?auto=format&fit=crop&q=80&w=800"
+      image: "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?auto=format&fit=crop&q=80&w=800"
     }
   ];
 
