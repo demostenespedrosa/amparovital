@@ -149,7 +149,7 @@ function HeroSection() {
           >
              <div className="absolute inset-0 bg-amparo-teal rounded-[3rem] transform rotate-3 scale-105 opacity-10"></div>
              <img 
-               src="https://ibb.co/B2qHqDhV" 
+               src="https://i.ibb.co/RTf8GWp1/2148940040.jpg" 
                alt="Cuidadora oferecendo companhia e segurando a mão da paciente, transmitindo carinho e apoio humano." 
                referrerPolicy="no-referrer"
                className="relative z-10 rounded-[3rem] shadow-2xl object-cover w-full h-[600px] border border-white/50"
@@ -244,19 +244,19 @@ function ServicesSection() {
       title: "Cuidado com Idosos",
       desc: "Companhia afetuosa, encorajamento na mobilidade e auxílio completo nas necessidades da vida diária, resguardando sempre a autonomia no próprio lar.",
       icon: <Heart size={20} className="text-white" />,
-      image: "https://ibb.co/ynpZpcp5"
+      image: "https://i.ibb.co/SXnYcB70/realistic-scene-with-health-worker-taking-care-elderly-patient.jpg"
     },
     {
       title: "Acompanhamento Hospitalar",
       desc: "Presença contínua e dedicada durante as internações, servindo como elo fiel da família com o paciente para reduzir a angústia durante a estadia.",
       icon: <Activity size={20} className="text-white" />,
-      image: "https://ibb.co/k2rYWpSM"
+      image: "https://i.ibb.co/1YWgsXgf/portrait-specialist-physician-assistant-standing-hospital-ward-medical-consultation-background-docto.jpg"
     },
     {
       title: "Assistência Pós-Cirúrgica",
       desc: "Um porto seguro na hora de voltar para casa. Acompanhamos a recuperação garantindo conforto e prevenindo esforço excessivo no restabelecimento.",
       icon: <Stethoscope size={20} className="text-white" />,
-      image: "https://ibb.co/nsX154yx"
+      image: "https://i.ibb.co/chX8HgbV/happy-nurse-holding-elderly-man-hand-wheelchair-garden-nursing-home.jpg"
     },
     {
       title: "Gestão de Rotinas",
